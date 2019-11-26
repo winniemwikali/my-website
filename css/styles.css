@@ -1,7 +1,31 @@
+.ca-rd-body {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+
 #head-er {
   float: left;
 }
 
 #icon-s {
   float: right;
+}
+
+#im-age {
+  text-align: center;
+  height: 200px;
+}
+
+#te-xt {
+  color: whitesmoke;
+  text-align: center;
+  display: flex;
+  margin-top: 3rem;
+  margin-left: 2rem;
+}
+
+#project-head {
+  text-align: center;
+  font-size: 40px;
 }
