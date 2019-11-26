@@ -1,0 +1,70 @@
+.ca-rd-body {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+
+#head-er {
+  float: left;
+}
+
+#icon-s {
+  float: right;
+}
+
+#im-age {
+  text-align: center;
+  height: 200px;
+}
+
+#te-xt {
+  color: whitesmoke;
+  text-align: center;
+  display: flex;
+  margin-top: 3rem;
+  margin-left: 2rem;
+}
+
+#project-head {
+  text-align: center;
+  font-size: 35px;
+}
+
+#project-text {
+  color: whitesmoke;
+  text-align: center;
+}
+
+#project-links {
+  color: rgb(43, 42, 42);
+  text-decoration: underline;
+}
+
+#email {
+  float: right;
+}
+
+#rights {
+  float: left;
+}
+
+.cnt-txt {
+  color: #ffffff;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.562);
+}
+
+.col-md-4 :hover {
+  color: #383838;
+}
+
+.foo-ter {
+  padding: 2rem 1rem;
+  margin-bottom: 1rem;
+  background-color: #e9ecefc5;
+  border-radius: 0.3rem;
+}
+
+h2 {
+  font-size: 50px;
+}
