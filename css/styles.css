@@ -41,11 +41,11 @@
 }
 
 #email {
-  float: right;
+  float: left;
 }
 
 #rights {
-  float: left;
+  float: right;
 }
 
 .cnt-txt {
